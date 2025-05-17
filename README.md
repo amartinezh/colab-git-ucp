@@ -2,7 +2,7 @@
 Taller Práctico: Colaboración en Git (Fork, PRs y Convenciones)
 ## Participantes
 - [ ] Jose Nicolas Aristizabal Ramirez
-- [ ] Juan David Botero Rodas
+- [X] Juan David Botero Rodas
 - [ ] Juan Pablo Campos Garzon
 - [ ] Koryna Cifuentes Monsalve
 - [ ] Jorge Mario	Echeveri Yepes
