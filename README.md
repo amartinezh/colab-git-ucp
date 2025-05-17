@@ -4,7 +4,7 @@ Taller Práctico: Colaboración en Git (Fork, PRs y Convenciones)
 - [ ] Jose Nicolas Aristizabal Ramirez
 - [ ] Juan David Botero Rodas
 - [ ] Juan Pablo Campos Garzon
-- [ ] Koryna Cifuentes Monsalve
+- [x] Koryna Cifuentes Monsalve
 - [ ] Jorge Mario	Echeveri Yepes
 - [ ] Arnol	Hernández Serna
 - [ ] Henry	Libreros Duque
