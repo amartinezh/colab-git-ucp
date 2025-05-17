@@ -11,7 +11,7 @@ Taller Práctico: Colaboración en Git (Fork, PRs y Convenciones)
 - [x] Johan Sebastian	Moncada Trejos  # Reemplazar "[ ]" por "[x]"
 - [ ] Duban Andres Monsalve Suarez
 - [ ] Carlos Alfonso Muñoz Agudelo
-- [ ] Gustavo Adolfo Ospina Lopez
+- [x] Gustavo Adolfo Ospina Lopez
 - [ ] Roosevelt Mauricio Rayo Garcia
 - [ ] Wilmer Fidel Restrepo Orrego
 - [ ] Daniel Alberto Tapasco Trejos
