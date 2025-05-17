@@ -5,7 +5,7 @@ Taller Práctico: Colaboración en Git (Fork, PRs y Convenciones)
 - [ ] Juan David Botero Rodas
 - [ ] Juan Pablo Campos Garzon
 - [ ] Koryna Cifuentes Monsalve
-- [x] Jorge Mario	Echeveri Yepes
+- [x] Jorge Mario Echeveri Yepes
 - [ ] Arnol	Hernández Serna
 - [ ] Henry	Libreros Duque
 - [x] Johan Sebastian	Moncada Trejos  # Reemplazar "[ ]" por "[x]"
