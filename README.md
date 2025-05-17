@@ -10,7 +10,7 @@ Taller Práctico: Colaboración en Git (Fork, PRs y Convenciones)
 - [ ] Henry	Libreros Duque
 - [ ] Johan Sebastian	Moncada Trejos
 - [ ] Duban Andres Monsalve Suarez
-- [ ] Carlos Alfonso Muñoz Agudelo
+- [v] Carlos Alfonso Muñoz Agudelo
 - [ ] Gustavo Adolfo Ospina Lopez
 - [ ] Roosevelt Mauricio Rayo Garcia
 - [ ] Wilmer Fidel Restrepo Orrego
