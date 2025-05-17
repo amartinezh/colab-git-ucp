@@ -15,4 +15,4 @@ Taller Práctico: Colaboración en Git (Fork, PRs y Convenciones)
 - [ ] Roosevelt Mauricio Rayo Garcia
 - [ ] Wilmer Fidel Restrepo Orrego
 - [ ] Daniel Alberto Tapasco Trejos
-- [ ] Pedro Luis Toro Acosta
+- [x] Pedro Luis Toro Acosta
