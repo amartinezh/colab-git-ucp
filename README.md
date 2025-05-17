@@ -8,11 +8,11 @@ Taller Práctico: Colaboración en Git (Fork, PRs y Convenciones)
 - [ ] Jorge Mario	Echeveri Yepes
 - [ ] Arnol	Hernández Serna
 - [ ] Henry	Libreros Duque
-- [x] Johan Sebastian	Moncada Trejos  # Reemplazar "[ ]" por "[x]"
-- [ ] Duban Andres Monsalve Suarez
+- [ ] Johan Sebastian	Moncada Trejos  # Reemplazar "[ ]" por "[x]"
+- [x] Duban Andres Monsalve Suarez
 - [ ] Carlos Alfonso Muñoz Agudelo
 - [ ] Gustavo Adolfo Ospina Lopez
-- [x] Roosevelt Mauricio Rayo Garcia
+- [ ] Roosevelt Mauricio Rayo Garcia
 - [ ] Wilmer Fidel Restrepo Orrego
 - [ ] Daniel Alberto Tapasco Trejos
-- [x] Pedro Luis Toro Acosta
+- [ ] Pedro Luis Toro Acosta
