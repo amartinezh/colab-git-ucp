@@ -1,6 +1,9 @@
 # colab-git-ucp
+
 Taller Práctico: Colaboración en Git (Fork, PRs y Convenciones)
+
 ## Participantes
+
 - [ ] Jose Nicolas Aristizabal Ramirez
 - [ ] Juan David Botero Rodas
 - [ ] Juan Pablo Campos Garzon
@@ -14,5 +17,5 @@ Taller Práctico: Colaboración en Git (Fork, PRs y Convenciones)
 - [ ] Gustavo Adolfo Ospina Lopez
 - [ ] Roosevelt Mauricio Rayo Garcia
 - [ ] Wilmer Fidel Restrepo Orrego
-- [ ] Daniel Alberto Tapasco Trejos
+- [x] Daniel Alberto Tapasco Trejos
 - [x] Pedro Luis Toro Acosta
