@@ -10,7 +10,7 @@ Taller Práctico: Colaboración en Git (Fork, PRs y Convenciones)
 - [ ] Koryna Cifuentes Monsalve
 - [ ] Jorge Mario Echeveri Yepes
 - [ ] Arnol Hernández Serna
-- [ ] Henry Libreros Duque
+- [x] Henry Libreros Duque
 - [x] Johan Sebastian Moncada Trejos # Reemplazar "[ ]" por "[x]"
 - [ ] Duban Andres Monsalve Suarez
 - [ ] Carlos Alfonso Muñoz Agudelo
